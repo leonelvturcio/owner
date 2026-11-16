@@ -38,7 +38,8 @@
 - No hay obligación de aceptar el contrato (kein Kontrahierungszwang): las aseguradoras pueden rechazarlo.
 
 ## Estado
-- [ ] Datos que faltan del usuario
+- [x] Datos del usuario (Gewerbe sí, 28.000 km/año, 2 años sin siniestros en España, inicio lo antes posible)
+- [x] 6 borradores creados en Gmail (texto en email-anfrage.txt)
 - [ ] Email aprobado
 - [ ] Emails enviados
 - [ ] Ofertas recibidas y comparadas
