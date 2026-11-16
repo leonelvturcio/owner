@@ -25,6 +25,12 @@
 | 4 | uRent (corredor asociado) | support@urent-rental.de | SFV para Transporter, empresas y particulares |
 | 5 | versicherungsvergleiche.de | info@versicherungsvergleiche.de | Guía sobre SFV y corredor |
 | 6 | transparent-beraten.de | kontakt@transparent-beraten.de | Seguro de flota para empresas de alquiler, con todo riesgo |
+| 7 | ihremakler24.de | info@ihremakler24.de | Tarifa propia WKZ 272: furgonetas de alquiler sin conductor hasta 3,5 t |
+| 8 | Flottex (Feucht), tel. 09128 400988-0 | info@flottex.de | Corredor citado en las guías de SFV |
+| 9 | R+V, agencia de Christoph Levetzow, Lange Straße 1A, Rostock | christoph.levetzow@ruv.de | Agente local; R+V/KRAVAG puede asegurar vehículos sueltos a través de agentes |
+| 10 | Funk Gruppe | welcome@funk-gruppe.de | Gran corredor citado en las guías de SFV |
+| 11 | Bernhard Assekuranz | info@bernhard-assekuranz.com | Especialista en alquiler de autocaravanas; se le pregunta por Transporter |
+| 12 | Dittmeier (Würzburg), Thorsten Hebling | thorsten.hebling@dittmeier.de | Corredor de vehículos de alquiler (sobre todo taxi/Mietwagen) |
 
 ## Precio orientativo (fuentes: guías de yourenti.de y versicherungsvergleiche.de, no son ofertas)
 - Responsabilidad civil para alquiler sin conductor: desde unos 500–800 €/año para un turismo. Para una van probablemente más.
@@ -39,7 +45,7 @@
 
 ## Estado
 - [x] Datos del usuario (Gewerbe sí, 28.000 km/año, 2 años sin siniestros en España, inicio lo antes posible)
-- [x] 6 borradores creados en Gmail (texto en email-anfrage.txt)
+- [x] 12 borradores creados en Gmail (cuenta leonelvturcios) (texto en email-anfrage.txt)
 - [ ] Email aprobado
 - [ ] Emails enviados
 - [ ] Ofertas recibidas y comparadas
