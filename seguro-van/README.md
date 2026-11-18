@@ -51,3 +51,14 @@
 - [ ] Ofertas recibidas y comparadas
 - [ ] Contrato firmado y eVB recibida
 - [ ] Matriculación como Selbstfahrervermietfahrzeug
+
+## Respuestas (revisado el 18.11.2026)
+| Corredor | Respuesta |
+|---|---|
+| FVO Versicherungsmakler (email que enviaste tú antes) | ✅ Piden rellenar un formulario online para Selbstfahrervermietung: https://fvo-formulare.de/fuhrpark-versicherung/fuhrparkversicherung-bis-10/ |
+| R+V Rostock (Levetzow) | ⏳ Lo pasan a su departamento especializado; tardará entre 3 y 6 semanas. Tel. 0381 490 57 57, WhatsApp 0151 14430271 |
+| 4U Assekuranzmakler | ❌ No por la barrera del idioma. Recomiendan KRAVAG, LVM, Provinzial, Generali y AXA |
+| Funk | ❌ No hacen Selbstfahrervermietung |
+| Bernhard Assekuranz | ❌ No; remiten a un comparador online |
+| transparent-beraten | ❌ No conocen ninguna aseguradora que lo haga |
+| DRIVAR, truck-broker, uRent, versicherungsvergleiche, ihremakler24, Flottex, Dittmeier | Sin respuesta todavía |
