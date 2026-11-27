@@ -1,0 +1,9 @@
+{
+  "menu": { "play": "Jugar", "options": "Options", "quit": "Salir del juego" },
+  "hud": {
+    "coins": "Tienes {cantidad} monedas",
+    "welcome": "¡Bienvenido de nuevo, %s!",
+    "boss": "¡Se acerca el jefe!"
+  },
+  "shop": { "buy": "Comprar por {price} de oro, una oferta increíble que no puedes dejar pasar" }
+}

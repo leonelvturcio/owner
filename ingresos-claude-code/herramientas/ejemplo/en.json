@@ -1,0 +1,9 @@
+{
+  "menu": { "play": "Play", "options": "Options", "quit": "Quit game" },
+  "hud": {
+    "coins": "You have {count} coins",
+    "welcome": "Welcome back, %s!",
+    "boss": "[color=red]Boss incoming![/color]"
+  },
+  "shop": { "buy": "Buy for {price} gold", "sold_out": "Sold out" }
+}
